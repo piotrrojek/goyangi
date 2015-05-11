@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/goyangi/</loc>
+    <loc>http://dorajistyle.github.io/goyangi/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/goyangi/about/</loc>
+    <loc>http://dorajistyle.github.io/goyangi/about/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/goyangi/howitworks/</loc>
+    <loc>http://dorajistyle.github.io/goyangi/howitworks/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/goyangi/features/</loc>
+    <loc>http://dorajistyle.github.io/goyangi/features/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/goyangi/installation/</loc>
+    <loc>http://dorajistyle.github.io/goyangi/installation/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/goyangi/packages/</loc>
+    <loc>http://dorajistyle.github.io/goyangi/packages/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/goyangi/contributing/</loc>
+    <loc>http://dorajistyle.github.io/goyangi/contributing/</loc>
   </url>
   
 </urlset>

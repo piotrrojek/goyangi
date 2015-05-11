@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goyangi</title>
-    <link>http://localhost:1313/goyangi/</link>
+    <link>http://dorajistyle.github.io/goyangi/</link>
     <description>Recent content on Goyangi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/goyangi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://dorajistyle.github.io/goyangi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Goyangi</title>
-      <link>http://localhost:1313/goyangi/about/</link>
+      <link>http://dorajistyle.github.io/goyangi/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/goyangi/about/</guid>
+      <guid>http://dorajistyle.github.io/goyangi/about/</guid>
       <description>
 
 &lt;p&gt;It suits for you who want to develop SPA or mobile application.
@@ -36,16 +36,16 @@ Help creative lazybones.&lt;/p&gt;
     
     <item>
       <title>How it works</title>
-      <link>http://localhost:1313/goyangi/howitworks/</link>
+      <link>http://dorajistyle.github.io/goyangi/howitworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/goyangi/howitworks/</guid>
+      <guid>http://dorajistyle.github.io/goyangi/howitworks/</guid>
       <description>
 
 &lt;p&gt;
 &lt;figure class=&#34;img-center&#34;&gt;
     
-        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/section/goyangi-howitworks.png&#34; class=&#34;img-responsive&#34;  /&gt;
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://dorajistyle.github.io/goyangi//media/section/goyangi-howitworks.png&#34; class=&#34;img-responsive&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -57,7 +57,7 @@ Help creative lazybones.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure class=&#34;img-center&#34;&gt;
     
-        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/section/goyangi-stack.png&#34; class=&#34;img-responsive&#34;  /&gt;
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://dorajistyle.github.io/goyangi//media/section/goyangi-stack.png&#34; class=&#34;img-responsive&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -72,10 +72,10 @@ Help creative lazybones.&lt;/p&gt;
     
     <item>
       <title>Features</title>
-      <link>http://localhost:1313/goyangi/features/</link>
+      <link>http://dorajistyle.github.io/goyangi/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/goyangi/features/</guid>
+      <guid>http://dorajistyle.github.io/goyangi/features/</guid>
       <description>
 
 &lt;ul&gt;
@@ -219,10 +219,10 @@ However developer can change the frontend easily. Just develop frontend and put 
     
     <item>
       <title>Installation</title>
-      <link>http://localhost:1313/goyangi/installation/</link>
+      <link>http://dorajistyle.github.io/goyangi/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/goyangi/installation/</guid>
+      <guid>http://dorajistyle.github.io/goyangi/installation/</guid>
       <description>
 
 &lt;h3 id=&#34;pre-installation:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;Pre installation&lt;/h3&gt;
@@ -303,10 +303,10 @@ You can use this for production environment.&lt;/p&gt;
     
     <item>
       <title>Packages</title>
-      <link>http://localhost:1313/goyangi/packages/</link>
+      <link>http://dorajistyle.github.io/goyangi/packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/goyangi/packages/</guid>
+      <guid>http://dorajistyle.github.io/goyangi/packages/</guid>
       <description>
 
 &lt;p&gt;Goyangi uses great open source packages. You can check that which packages used in Goyangi web foundation.&lt;/p&gt;
@@ -386,10 +386,10 @@ You can use this for production environment.&lt;/p&gt;
     
     <item>
       <title>Contributing</title>
-      <link>http://localhost:1313/goyangi/contributing/</link>
+      <link>http://dorajistyle.github.io/goyangi/contributing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/goyangi/contributing/</guid>
+      <guid>http://dorajistyle.github.io/goyangi/contributing/</guid>
       <description>
 
 &lt;p&gt;Just fork it, and enhance it.&lt;br /&gt;
@@ -411,7 +411,7 @@ And then lazybones become creative.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure class=&#34;pull-left pr10&#34;&gt;
     &lt;a href=&#34;https://gratipay.com/dorajistyle&#34; target=&#34;_blank&#34;&gt;
-        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/donation/tips-$8-week-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://dorajistyle.github.io/goyangi//media/donation/tips-$8-week-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
     &lt;/a&gt;
     
 &lt;/figure&gt;
@@ -420,7 +420,7 @@ And then lazybones become creative.&lt;/p&gt;
 
 &lt;figure class=&#34;pull-left pr10&#34;&gt;
     &lt;a href=&#34;https://flattr.com/submit/auto?user_id=dorajistyle&amp;amp;url=http%3A%2F%2Fgithub.io%2Fdorajistyle%2Fgoyangi&#34; target=&#34;_blank&#34;&gt;
-        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/donation/flattr-donate-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://dorajistyle.github.io/goyangi//media/donation/flattr-donate-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
     &lt;/a&gt;
     
 &lt;/figure&gt;
@@ -429,7 +429,7 @@ And then lazybones become creative.&lt;/p&gt;
 
 &lt;figure class=&#34;pull-left&#34;&gt;
     &lt;a href=&#34;https://www.coinbase.com/checkouts/1c63131e72d91188898e5104dc540f63&#34; target=&#34;_blank&#34;&gt;
-        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/donation/bitcoin-donate-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://dorajistyle.github.io/goyangi//media/donation/bitcoin-donate-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
     &lt;/a&gt;
     
 &lt;/figure&gt;
