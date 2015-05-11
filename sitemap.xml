@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/goyangi/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/goyangi/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/goyangi/howitworks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/goyangi/features/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/goyangi/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/goyangi/packages/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/goyangi/contributing/</loc>
+  </url>
+  
+</urlset>

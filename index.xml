@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goyangi</title>
+    <link>http://localhost:1313/goyangi/</link>
+    <description>Recent content on Goyangi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/goyangi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Goyangi</title>
+      <link>http://localhost:1313/goyangi/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/goyangi/about/</guid>
+      <description>
+
+&lt;p&gt;It suits for you who want to develop SPA or mobile application.
+It also good example how to develop large web application that combined fancy golang packages. &lt;a href=&#34;http://en.wikipedia.org/wiki/goyangi&#34;&gt;Goyangi&lt;/a&gt; means cat in Korean.&lt;/p&gt;
+
+&lt;h2 id=&#34;why:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Why?&lt;/h2&gt;
+
+&lt;p&gt;There are some good frameworks like a magic(&lt;a href=&#34;http://beego.me/&#34;&gt;Beego&lt;/a&gt;, &lt;a href=&#34;http://revel.github.io/&#34;&gt;Revel&lt;/a&gt;&amp;hellip;). However these are too much.&lt;br /&gt;
+Some of developers prefer to using micro frameworks and lightweight packages for flexibility and performance.&lt;br /&gt;
+It&amp;rsquo;s not easy to select and combine packages though.&lt;br /&gt;
+So, Goyangi carefully chosen packages and combined.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-goal:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;The goal&lt;/h2&gt;
+
+&lt;p&gt;Develop foundation codes that commonly used in web development.&lt;br /&gt;
+Keep it simple and DRY.&lt;br /&gt;
+Help creative lazybones.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How it works</title>
+      <link>http://localhost:1313/goyangi/howitworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/goyangi/howitworks/</guid>
+      <description>
+
+&lt;p&gt;
+&lt;figure class=&#34;img-center&#34;&gt;
+    
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/section/goyangi-howitworks.png&#34; class=&#34;img-responsive&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;
+
+&lt;h2 id=&#34;stack:582058aaaae272aa20170014d109431a&#34;&gt;Stack&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;img-center&#34;&gt;
+    
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/section/goyangi-stack.png&#34; class=&#34;img-responsive&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;demo-server-http-168-235-151-141-6060:582058aaaae272aa20170014d109431a&#34;&gt;&lt;a href=&#34;http://168.235.151.141:6060/&#34;&gt;Demo Server&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>http://localhost:1313/goyangi/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/goyangi/features/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Restful support&lt;/li&gt;
+&lt;li&gt;From Development to Deployment&lt;/li&gt;
+&lt;li&gt;SPA ready&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;br&#34;&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;restful-api:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Restful API&lt;/h3&gt;
+
+&lt;h4 id=&#34;user:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;User&lt;/h4&gt;
+
+&lt;p&gt;User is core of web application.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] User CRUD&lt;/li&gt;
+&lt;li&gt;[x] User Authentication&lt;/li&gt;
+&lt;li&gt;[x] Oauth&lt;/li&gt;
+&lt;li&gt;[x] User role for admin&lt;/li&gt;
+&lt;li&gt;[x] Permissions handling to access each API&lt;/li&gt;
+&lt;li&gt;[x] Email verification&lt;/li&gt;
+&lt;li&gt;[x] Password reset via email&lt;/li&gt;
+&lt;li&gt;[x] Following&lt;/li&gt;
+&lt;li&gt;[x] Activation&lt;/li&gt;
+&lt;li&gt;[x] MD5 for Gravatar&lt;/li&gt;
+&lt;li&gt;[ ] Messaging&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;article:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Article&lt;/h4&gt;
+
+&lt;p&gt;It&amp;rsquo;s a foundation of basic board.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] Article CRUD&lt;/li&gt;
+&lt;li&gt;[x] Liking&lt;/li&gt;
+&lt;li&gt;[x] Comment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;location:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Location&lt;/h4&gt;
+
+&lt;p&gt;It&amp;rsquo;s a foundation of basic location.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] Location CRUD&lt;/li&gt;
+&lt;li&gt;[x] Liking&lt;/li&gt;
+&lt;li&gt;[x] Comment&lt;/li&gt;
+&lt;li&gt;[x] Search on a google map&lt;/li&gt;
+&lt;li&gt;[ ] Search on a other maps likes open street map.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;upload:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Upload&lt;/h4&gt;
+
+&lt;p&gt;It&amp;rsquo;s a foundation of basic file upload.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] Upload files to local storage&lt;/li&gt;
+&lt;li&gt;[x] Upload files to amazon aws S3&lt;/li&gt;
+&lt;li&gt;[x] Upload files meta data to database&lt;/li&gt;
+&lt;li&gt;[ ] Upload files to other cloud server&lt;/li&gt;
+&lt;li&gt;[ ] Upload csv to database&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;image:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Image&lt;/h5&gt;
+
+&lt;p&gt;Image handling included in uploads function.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] Resize (vips)&lt;/li&gt;
+&lt;li&gt;[x] Filtering (gift)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;statistics:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Statistics&lt;/h4&gt;
+
+&lt;p&gt;It&amp;rsquo;s a foundation of statistics.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[ ] Soon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;whatever-you-need:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Whatever you need&lt;/h4&gt;
+
+&lt;p&gt;It&amp;rsquo;s a foundation of Whatever you need&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[ ] You can add any foundation code that commonly used in web application.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;br&#34;&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;from-development-to-deployment:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;From Development to Deployment&lt;/h3&gt;
+
+&lt;h4 id=&#34;development:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Development&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] watcher for backend golang&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;  goop exec watcher server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] wathcer for frontend&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;  goop exec go run goyangi.go watcher
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;testing:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Testing&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] BDD testing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;   goop exec go run goyangi.go test
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;deployment:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Deployment&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] Generate API document&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;   goop exec go run goyangi.go generateAPI
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] Dockerfile
+You can find dockerfiles in ./dockerFiles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;br&#34;&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;spa-ready:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;SPA ready&lt;/h3&gt;
+
+&lt;p&gt;Goyangi separates server and frondend clearly. And default SPA frontend used canjs.&lt;br /&gt;
+However developer can change the frontend easily. Just develop frontend and put it into &amp;lsquo;frontend/&amp;rsquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/goyangi/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/goyangi/installation/</guid>
+      <description>
+
+&lt;h3 id=&#34;pre-installation:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;Pre installation&lt;/h3&gt;
+
+&lt;p&gt;Mercurial
+Go&lt;/p&gt;
+
+&lt;h3 id=&#34;with-docker:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;With Docker&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;$ go get github.com/nitrous-io/goop
+$ git clone dorajistyle/goyangi
+$ cd goyangi
+$ goop install
+$ docker build -t &amp;quot;dorajistyle/goyangi&amp;quot; --no-cache .
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;without-docker:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;Without Docker&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;update soon&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;configuration:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;Configuration&lt;/h3&gt;
+
+&lt;h3 id=&#34;backend:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;Backend&lt;/h3&gt;
+
+&lt;p&gt;You can find all configuration files in ./config&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;api.go : API related configuration.&lt;/li&gt;
+&lt;li&gt;authentication.go : Authentication related configuration.&lt;/li&gt;
+&lt;li&gt;aws.go : If you want to use aws S3, you should setup configuration here.&lt;/li&gt;
+&lt;li&gt;db.go : Be sure that you have a database for migration and run application.&lt;/li&gt;
+&lt;li&gt;email.go : If you want to send an email to users, set your email information.&lt;/li&gt;
+&lt;li&gt;environment.go : It has three type of environments. DEVELOPMENT | TEST | PRODUCTION&lt;/li&gt;
+&lt;li&gt;frontend.go : Frontend related configuration.&lt;/li&gt;
+&lt;li&gt;guid.go : Guid for build frontend. Use guid in the static url to ignore cache.&lt;/li&gt;
+&lt;li&gt;image.go : Image related configuration.&lt;/li&gt;
+&lt;li&gt;logger.go : Log related configuration.&lt;/li&gt;
+&lt;li&gt;oauth.go : When you want to connect with oauth, set your oauth information.&lt;/li&gt;
+&lt;li&gt;order.go : Ordering of models.&lt;/li&gt;
+&lt;li&gt;pagination.go : Pagination of models.&lt;/li&gt;
+&lt;li&gt;public.go : Public fields of user for privacy.&lt;/li&gt;
+&lt;li&gt;uploader.go : Uploader related configuration.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;frontend:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;Frontend&lt;/h3&gt;
+
+&lt;h4 id=&#34;canjs:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;canjs&lt;/h4&gt;
+
+&lt;h5 id=&#34;frontend-canjs-compiler:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;./frontend/canjs/compiler&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;$ gulp
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It generates views.build.js from *.stache files. Also it generates css files and merges into application.css from *.scss file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ gulp watch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It watches *.stache files and *.scss files. When these files are modified, It generate views.build.js and application.css&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ node ./r.js -o build.js
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It runs requirejs optimize and generate optimized files into ./frontend/canjs/static-build
+You can use this for production environment.&lt;/p&gt;
+
+&lt;h5 id=&#34;frontend-canjs-static-js-js:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;./frontend/canjs/static/js/*.js&lt;/h5&gt;
+
+&lt;h6 id=&#34;settings-js:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;settings.js&lt;/h6&gt;
+
+&lt;p&gt;If you want to use share article to facebook, set your facebook app Id to exports.facebookAppId&lt;/p&gt;
+
+&lt;h6 id=&#34;app-js:4c40a97dcf30b230e73eabba1323c21c&#34;&gt;app.js&lt;/h6&gt;
+
+&lt;p&gt;If you want to use google map, set your key into googlemaps/params/key&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>http://localhost:1313/goyangi/packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/goyangi/packages/</guid>
+      <description>
+
+&lt;p&gt;Goyangi uses great open source packages. You can check that which packages used in Goyangi web foundation.&lt;/p&gt;
+
+&lt;h2 id=&#34;go-packages:d3dfb9579bc73de8e4f3f5d0630a7960&#34;&gt;Go packages&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/golang.org/x/crypto/bcrypt&#34;&gt;golang.org/x/crypto/bcrypt&lt;/a&gt;[&lt;a href=&#34;https://github.com/golang/crypto/&#34;&gt;code&lt;/a&gt;], It implements Provos and Mazières&amp;rsquo;s bcrypt adaptive hashing algorithm.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gorillatoolkit.org/pkg/securecookie&#34;&gt;gorilla/securecookie&lt;/a&gt;[&lt;a href=&#34;https://github.com/gorilla/securecookie&#34;&gt;code&lt;/a&gt;], It encodes and decodes authenticated and optionally encrypted cookie values.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gin-gonic.github.io/gin/&#34;&gt;gin-gonic/gin&lt;/a&gt;[&lt;a href=&#34;https://github.com/gin-gonic/gin&#34;&gt;code&lt;/a&gt;], Gin is a web framework written in Golang. If you need performance and good productivity, you will love Gin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://godoc.org/github.com/go-sql-driver/mysql&#34;&gt;go-sql-driver/mysql&lt;/a&gt;[&lt;a href=&#34;https://github.com/go-sql-driver/mysql&#34;&gt;code&lt;/a&gt;], A MySQL-Driver for Go&amp;rsquo;s database/sql package&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/github.com/jinzhu/gorm&#34;&gt;jinzhu/gorm&lt;/a&gt;[&lt;a href=&#34;https://github.com/jinzhu/gorm&#34;&gt;code&lt;/a&gt;], The fantastic ORM library for Golang, aims to be developer friendly.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/github.com/Sirupsen/logrus&#34;&gt;Sirupsen/logrus&lt;/a&gt;[&lt;a href=&#34;https://github.com/Sirupsen/logrus&#34;&gt;code&lt;/a&gt;], Structured, pluggable logging for Go.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://onsi.github.io/ginkgo/&#34;&gt;onsi/ginkgo&lt;/a&gt;[&lt;a href=&#34;https://github.com/onsi/ginkgo/&#34;&gt;code&lt;/a&gt;], BDD Testing Framework for Go.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://onsi.github.io/gomega/&#34;&gt;onsi/gomega&lt;/a&gt;[&lt;a href=&#34;https://github.com/onsi/gomega&#34;&gt;code&lt;/a&gt;], Ginkgo&amp;rsquo;s Preferred Matcher Library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://godoc.org/github.com/goamz/goamz&#34;&gt;goamz/goamz&lt;/a&gt;[&lt;a href=&#34;https://github.com/goamz/goamz&#34;&gt;code&lt;/a&gt;], It enables Go programs to interact with Amazon Web Services.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://godoc.org/github.com/disintegration/gift&#34;&gt;disintegration/gift&lt;/a&gt;[&lt;a href=&#34;https://github.com/disintegration/gift&#34;&gt;code&lt;/a&gt;], It provides a set of useful image processing filters.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gopkg.in/gomail.v1&#34;&gt;gopkg.in/gomail.v1&lt;/a&gt;[&lt;a href=&#34;https://github.com/go-gomail/gomail/tree/v1&#34;&gt;code&lt;/a&gt;], A simple and powerful Go package to send emails.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/golang.org/x/oauth2&#34;&gt;golang.org/x/oauth2&lt;/a&gt;[&lt;a href=&#34;https://github.com/golang/oauth2&#34;&gt;code&lt;/a&gt;], It contains a client implementation for OAuth 2.0 spec.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/github.com/nicksnyder/go-i18n&#34;&gt;nicksnyder/go-i18n&lt;/a&gt;[&lt;a href=&#34;https://github.com/nicksnyder/go-i18n&#34;&gt;code&lt;/a&gt;], It is a Go package and a command that can be used to translate Go programs into multiple languages.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/github.com/DAddYE/vips&#34;&gt;DAddYE/vips&lt;/a&gt;[&lt;a href=&#34;https://github.com/DAddYE/vips&#34;&gt;code&lt;/a&gt;], It is powered by the blazingly fast libvips image processing library, originally created in 1989 at Birkbeck College and currently maintained by JohnCupitt.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gopkg.in/natefinch/lumberjack.v2&#34;&gt;natefinch/lumberjack.v2&lt;/a&gt;[&lt;a href=&#34;https://github.com/natefinch/lumberjack/tree/v2.0&#34;&gt;code&lt;/a&gt;], It is a Go package for writing logs to rolling files.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/github.com/codegangsta/cli&#34;&gt;codegangsta/cli&lt;/a&gt;[&lt;a href=&#34;https://github.com/codegangsta/cli&#34;&gt;code&lt;/a&gt;], It is simple, fast, and fun package for building command line apps in Go.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/github.com/codegangsta/gin&#34;&gt;codegangsta/gin&lt;/a&gt;[&lt;a href=&#34;https://github.com/codegangsta/gin&#34;&gt;code&lt;/a&gt;], Live reload utility for Go web servers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godoc.org/github.com/nitrous-io/goop&#34;&gt;nitrous-io/goop&lt;/a&gt;[&lt;a href=&#34;https://github.com/nitrous-io/goop&#34;&gt;code&lt;/a&gt;], A dependency manager for Go (golang), inspired by Bundler.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;frontend-packages:d3dfb9579bc73de8e4f3f5d0630a7960&#34;&gt;Frontend packages&lt;/h2&gt;
+
+&lt;h3 id=&#34;canjs:d3dfb9579bc73de8e4f3f5d0630a7960&#34;&gt;CanJS&lt;/h3&gt;
+
+&lt;h4 id=&#34;libraries:d3dfb9579bc73de8e4f3f5d0630a7960&#34;&gt;Libraries&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://canjs.com/&#34;&gt;Canjs&lt;/a&gt;, Client-side JavaScript Framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://requirejs.org/&#34;&gt;RequireJS&lt;/a&gt;, JavaScript file and module loader.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://requirejs.org/docs/optimization.html&#34;&gt;RequireJS Optimizer&lt;/a&gt;, Optimization tool of RequireJS.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/millermedeiros/requirejs-plugins&#34;&gt;RequireJS plugins&lt;/a&gt;, Small set of plugins for RequireJS.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.initializr.com/&#34;&gt;Initializr&lt;/a&gt;, HTML5 templates generator.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getuikit.com/&#34;&gt;UIkit&lt;/a&gt;, A lightweight and modular front-end framework for developing fast and powerful web interfaces.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hammerjs.github.io/&#34;&gt;Hammer&lt;/a&gt;, A open-source library that can recognize gestures made by touch, mouse and pointerEvents.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://momentjs.com/&#34;&gt;Moment.js&lt;/a&gt;, Parse, validate, manipulate, and display dates in JavaScript.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mustache.github.io/&#34;&gt;mustache&lt;/a&gt;, Logic-less templates.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://i18next.com/&#34;&gt;i18next&lt;/a&gt;, JavaScript translating toolkit.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pimterry/loglevel&#34;&gt;loglevel&lt;/a&gt;, Minimal lightweight simple logging for JavaScript.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/twitter/typeahead.js&#34;&gt;typeahead.js&lt;/a&gt;,  It is a fast and fully-featured autocomplete library.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fgnass.github.io/spin.js/&#34;&gt;spin.js&lt;/a&gt;, It dynamically creates spinning activity indicators that can be used as resolution-independent replacement for AJAX loading GIFs.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jamesallardice.github.io/Placeholders.js/&#34;&gt;Placeholders.js&lt;/a&gt;, It is a JavaScript polyfill for the HTML5 placeholder attribute.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dimsemenov.com/plugins/magnific-popup/&#34;&gt;Magnific Popup&lt;/a&gt;, A responsive lightbox &amp;amp; dialog script with focus on performance and providing best experience for user with any device.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alex-d.github.io/Trumbowyg/&#34;&gt;Trumbowyg&lt;/a&gt;, A light, translatable and customisable jQuery plugin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jquery.com/&#34;&gt;jQuery&lt;/a&gt;, It is a fast, small, and feature-rich JavaScript library.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://benalman.com/projects/jquery-bbq-plugin/&#34;&gt;jQuery BBQ&lt;/a&gt;, It leverages the HTML5 hashchange event to allow simple, yet powerful bookmarkable #hash history.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blueimp.github.io/jQuery-File-Upload/&#34;&gt;jQuery File Upload&lt;/a&gt;, File Upload widget with multiple file selection, drag&amp;amp;drop support, progress bars, validation and preview images, audio and video for jQuery.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aerisweather/googlemaps-amd&#34;&gt;googlemaps-amd&lt;/a&gt; Google Maps AMD Loader Plugin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;management:d3dfb9579bc73de8e4f3f5d0630a7960&#34;&gt;Management&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bower.io/&#34;&gt;Bower&lt;/a&gt;, A package manager for the web&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gulpjs.com/&#34;&gt;Gulp&lt;/a&gt;, Automate and enhance your workflow.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gulpjs/gulp-util&#34;&gt;gulp-util&lt;/a&gt;, Utilities for gulp plugins.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ben-eb/gulp-uncss&#34;&gt;gulp-uncss&lt;/a&gt;, Remove unused CSS selectors.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bcoe/yargs&#34;&gt;yargs&lt;/a&gt;, The modern, pirate-themed successor to optimist.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wearefractal/gulp-concat&#34;&gt;gulp-concat&lt;/a&gt;, Streaming concat middleware for gulp.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/terinjokes/gulp-uglify&#34;&gt;gulp-uglify&lt;/a&gt;, Minify files with UglifyJS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lazd/gulp-replace&#34;&gt;gulp-replace&lt;/a&gt;, A string replace plugin for gulp.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dlmanning/gulp-sass&#34;&gt;gulp-sass&lt;/a&gt;, SASS plugin for gulp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jonathanepollack/gulp-minify-css&#34;&gt;gulp-minify-css&lt;/a&gt;, A Gulp plugin that minifies css with clean-css.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sindresorhus/gulp-autoprefixer&#34;&gt;gulp-autoprefixer&lt;/a&gt;, Prefix CSS.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/grncdr/merge-stream&#34;&gt;merge-stream&lt;/a&gt;, Merge multiple streams into one interleaved stream.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OverZealous/run-sequence&#34;&gt;run-sequence&lt;/a&gt;, Run a series of dependent gulp tasks in order.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daffl.github.io/can-compile/&#34;&gt;Can-Compile&lt;/a&gt;, Compiles CanJS EJS and Mustache views into a single JavaScript file.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributing</title>
+      <link>http://localhost:1313/goyangi/contributing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/goyangi/contributing/</guid>
+      <description>
+
+&lt;p&gt;Just fork it, and enhance it.&lt;br /&gt;
+When the Goyangi become more stable, developers become lazybones.&lt;br /&gt;
+And then lazybones become creative.&lt;/p&gt;
+
+&lt;h3 id=&#34;todo:cc4aac3e9be04e0413c9520f223b493c&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[ ] Add tons of BDD tests&lt;/li&gt;
+&lt;li&gt;[ ] Improve documentation&lt;/li&gt;
+&lt;li&gt;[ ] Automatically ignore private configuration when commit using git filter for contributors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;br&#34;&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;donation:cc4aac3e9be04e0413c9520f223b493c&#34;&gt;Donation&lt;/h3&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;pull-left pr10&#34;&gt;
+    &lt;a href=&#34;https://gratipay.com/dorajistyle&#34; target=&#34;_blank&#34;&gt;
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/donation/tips-$8-week-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;pull-left pr10&#34;&gt;
+    &lt;a href=&#34;https://flattr.com/submit/auto?user_id=dorajistyle&amp;amp;url=http%3A%2F%2Fgithub.io%2Fdorajistyle%2Fgoyangi&#34; target=&#34;_blank&#34;&gt;
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/donation/flattr-donate-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;pull-left&#34;&gt;
+    &lt;a href=&#34;https://www.coinbase.com/checkouts/1c63131e72d91188898e5104dc540f63&#34; target=&#34;_blank&#34;&gt;
+        &lt;img itemprop=&#34;image&#34; src=&#34;http://localhost:1313/goyangi//media/donation/bitcoin-donate-orange.svg&#34; class=&#34;img-responsive&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
